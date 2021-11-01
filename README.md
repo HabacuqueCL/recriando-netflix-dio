@@ -1,2 +1,6 @@
-# recriando-netflix-dio
-Recriacao do netflix
+> # recriando-netflix-dio
+
+> ## Projeto recriando a plataforma de stream Netflix usando conceitos de html, css e js.
+
+
+
